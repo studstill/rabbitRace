@@ -1,0 +1,86 @@
+
+h1 {
+  text-align: center;
+
+}
+
+#input {
+  text-align: center;
+}
+
+#a1 {
+  position: relative;
+  left;
+  font-family: impact;
+  height: 25px;
+
+}
+
+#a2 {
+  position: relative;
+  left;
+  font-family: impact;
+}
+
+#a3 {
+  position: relative;
+  left;
+  font-family: impact;
+
+}
+
+#userRabbit {
+  position: relative;
+  left;
+  font-family: impact;
+}
+
+#a4 {
+  position: relative;
+  left + 10%;
+  font-family: impact;
+}
+
+#a5 {
+  position: relative;
+  left;
+  font-family: impact;
+}
+
+#a6 {
+  position: relative;
+  left;
+  font-family: impact
+}
+
+#a7 {
+  position: relative;
+  left;
+  font-family: impact;
+}
+
+#a8 {
+  position: relative;
+  left;
+  font-family: impact:;
+}
+#opener {
+  text-align: center;
+}
+
+
+#racetrack {
+  text-align: left;
+}
+
+.results1 {
+  text-align: center;
+}
+
+.results2 {
+  text-align: center;
+}
+
+.racetrack {
+  text-align: left;
+}

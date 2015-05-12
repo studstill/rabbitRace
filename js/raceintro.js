@@ -27,3 +27,7 @@ while (rabbit.position < meters && turtle.position < meters) {
   turtle.advance();
   console.log(rabbit.progressReport() + " -- " + turtle.progressReport());
 }
+
+
+
+
