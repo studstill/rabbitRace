@@ -1,5 +1,8 @@
 $(document).ready(function() {
 
+  $('button').click(function() {
+    $('#opener, #input').hide();
+  });
 
   $('button').on('click', function() {
 
@@ -43,6 +46,7 @@ $(document).ready(function() {
   var meters = 100;
 
   $(userRabbit).html(userRabbitName);
+  $(userRabbit).show();
 
   var theRace = setInterval(function() {runRace()}, 150);
 

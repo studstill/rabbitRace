@@ -1,18 +1,12 @@
-
-h1 {
-  text-align: center;
-
-}
-
-#input {
+body {
   text-align: center;
 }
 
 #a1 {
-  position: relative;
-  left;
-  font-family: impact;
-  height: 25px;
+    position: relative;
+    left;
+    font-family: impact;
+    height: 25px;
 
 }
 
@@ -30,6 +24,7 @@ h1 {
 }
 
 #userRabbit {
+  color: red;
   position: relative;
   left;
   font-family: impact;
@@ -64,23 +59,24 @@ h1 {
   left;
   font-family: impact:;
 }
-#opener {
-  text-align: center;
-}
+
 
 
 #racetrack {
   text-align: left;
+  border: 2px dashed black;
 }
 
-.results1 {
-  text-align: center;
-}
-
-.results2 {
-  text-align: center;
-}
 
 .racetrack {
+  margin: 20px;
   text-align: left;
+  border: 10px solid black;
+  border-color: green;
+}
+
+div {
+  border: 2px dashed black;
+  padding: 2px;
+  height: 20px;
 }
